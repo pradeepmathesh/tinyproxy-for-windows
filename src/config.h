@@ -1,0 +1,27 @@
+#define HAVE_WINDOWS_H
+#define HAVE_STDDEF_H
+#define HAVE_CTYPE_H
+#define HAVE_ERRNO_H
+#define HAVE_ASSERT_H
+#define HAVE_WCTYPE_H
+#define HAVE_WCHAR_H
+#define HAVE_UNISTD_H
+#define HAVE_STRING_H
+#define HAVE_MALLOC_H
+#define HAVE_STDLIB_H
+#define HAVE_STDIO_H
+#define HAVE_STDARG_H
+#define HAVE_SIGNAL_H
+#define HAVE_MEMORY_H
+#define HAVE_FCNTL_H
+#define TIME_WITH_SYS_TIME
+#define HAVE_SYS_STAT_H
+#define HAVE_STDINT_H
+#define HAVE_SYS_TYPES_H
+#define HAVE_INTTYPES_H
+#define  HAVE_REGEX_H
+//#define FILTER_ENABLE
+//#define UPSTREAM_SUPPORT
+//#define REVERSE_SUPPORT
+#define HAVE_FTRUNCATE
+#define TARGET_SYSTEM 0x702

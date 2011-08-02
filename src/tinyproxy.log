@@ -1,0 +1,317 @@
+INFO      Dec 09 11:14:57 [3548]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:14:57 [3548]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:14:57 [3548]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:14:57 [3548]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:14:57 [3548]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:14:57 [3548]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:14:57 [3548]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:27:21 [2764]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:27:21 [2764]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:27:21 [2764]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:27:21 [2764]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:27:21 [2764]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:27:21 [2764]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:27:21 [2764]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:43:03 [760]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:43:03 [760]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:43:03 [760]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:43:03 [760]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:43:03 [760]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:43:03 [760]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:43:03 [760]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:43:24 [2832]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:43:24 [2832]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:43:24 [2832]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:43:24 [2832]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:43:24 [2832]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:43:24 [2832]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:43:24 [2832]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:43:30 [496]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:43:30 [496]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:43:30 [496]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:43:30 [496]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:43:30 [496]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:43:30 [496]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:43:30 [496]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:43:32 [2028]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:43:32 [2028]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:43:32 [2028]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:43:32 [2028]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:43:32 [2028]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:43:32 [2028]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:43:32 [2028]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:43:33 [2496]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:43:33 [2496]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:43:33 [2496]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:43:33 [2496]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:43:33 [2496]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:43:33 [2496]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:43:33 [2496]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:43:34 [3260]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:43:34 [3260]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:43:34 [3260]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:43:34 [3260]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:43:34 [3260]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:43:34 [3260]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:43:34 [3260]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:46:43 [3592]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:46:43 [3592]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:46:43 [3592]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:46:43 [3592]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:46:43 [3592]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:46:43 [3592]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:46:43 [3592]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:54:16 [1116]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:54:16 [1116]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:54:16 [1116]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:54:16 [1116]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:54:16 [1116]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:54:16 [1116]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:54:16 [1116]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:54:16 [1116]: Setting the various signals.
+INFO      Dec 09 11:54:28 [2404]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:54:28 [2404]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:54:28 [2404]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:54:28 [2404]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:54:28 [2404]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:54:28 [2404]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:54:28 [2404]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:54:28 [2404]: Setting the various signals.
+INFO      Dec 09 11:55:58 [516]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:55:58 [516]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:55:58 [516]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:55:58 [516]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:55:58 [516]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:55:58 [516]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:55:58 [516]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:55:58 [516]: Setting the various signals.
+INFO      Dec 09 11:56:17 [3128]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:56:17 [3128]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:56:17 [3128]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:56:17 [3128]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:56:17 [3128]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:56:17 [3128]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:56:17 [3128]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:56:17 [3128]: Setting the various signals.
+INFO      Dec 09 11:56:32 [1288]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:56:32 [1288]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:56:32 [1288]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:56:32 [1288]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:56:32 [1288]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:56:32 [1288]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:56:32 [1288]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:56:32 [1288]: Setting the various signals.
+CONNECT   Dec 09 11:56:37 [1288]: Connect (file descriptor 1864): localhost [127.0.0.1]
+INFO      Dec 09 11:58:54 [2336]: Initializing @PACKAGE@ ...
+DEBUG     Dec 09 11:58:54 [2336]: [acl.c:98] ACL "127.0.0.1" is a number.
+DEBUG     Dec 09 11:58:54 [2336]: [acl.c:98] ACL "172.17.127.129" is a number.
+DEBUG     Dec 09 11:58:54 [2336]: [acl.c:98] ACL "192.168.1.0/25" is a number.
+INFO      Dec 09 11:58:54 [2336]: Setting "Via" proxy name to: tinyproxy
+INFO      Dec 09 11:58:54 [2336]: Adding Port [443] to the list allowed by CONNECT
+INFO      Dec 09 11:58:54 [2336]: Setting stathost to "127.0.0.1".
+INFO      Dec 09 11:58:54 [2336]: Setting the various signals.
+CONNECT   Dec 09 11:59:05 [2336]: Connect (file descriptor 1948): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:05 [2336]: Request (file descriptor 1948): GET http://vidya/favicon.ico HTTP/1.1
+CONNECT   Dec 09 11:59:05 [2336]: Established connection to host "vidya" using file descriptor 1856.
+ERROR     Dec 09 11:59:05 [2336]: writebuff: write() error "No error" on file descriptor 1948
+INFO      Dec 09 11:59:05 [2336]: Closed connection between local client (fd:1948) and remote client (fd:1856)
+INFO      Dec 09 11:59:05 [2336]: Client (1948) close message: Bad file descriptor
+INFO      Dec 09 11:59:05 [2336]: Server (1856) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1848): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1848): GET http://vidya/ HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1836.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1848) and remote client (fd:1836)
+INFO      Dec 09 11:59:17 [2336]: Client (1848) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1836) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1824): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1824): GET http://vidya/vidya_files/master.css HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1812.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1824) and remote client (fd:1812)
+INFO      Dec 09 11:59:17 [2336]: Client (1824) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1812) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1800): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1800): GET http://vidya/files/vidya.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1788.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1800) and remote client (fd:1788)
+INFO      Dec 09 11:59:17 [2336]: Client (1800) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1788) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1776): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1776): GET http://vidya/files/search-digital.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1764.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1776) and remote client (fd:1764)
+INFO      Dec 09 11:59:17 [2336]: Client (1776) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1764) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1752): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1752): GET http://vidya/files/amma%20final1.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1740.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1752) and remote client (fd:1740)
+INFO      Dec 09 11:59:17 [2336]: Client (1752) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1740) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1728): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1728): GET http://vidya/files/vidya%20interactive%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1716.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1728) and remote client (fd:1716)
+INFO      Dec 09 11:59:17 [2336]: Client (1728) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1716) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1704): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1704): GET http://vidya/files/lestweforget.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1692.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1704) and remote client (fd:1692)
+INFO      Dec 09 11:59:17 [2336]: Client (1704) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1692) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1680): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1680): GET http://vidya/files/engineering%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1668.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1680) and remote client (fd:1668)
+INFO      Dec 09 11:59:17 [2336]: Client (1680) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1668) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1656): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1656): GET http://vidya/files/academic-integrity.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1644.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1656) and remote client (fd:1644)
+INFO      Dec 09 11:59:17 [2336]: Client (1656) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1644) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1632): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1632): GET http://vidya/vidya_files/ui.js HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1620.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1632) and remote client (fd:1620)
+INFO      Dec 09 11:59:17 [2336]: Client (1632) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1620) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1608): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1608): GET http://vidya/vidya_files/home.js HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1596.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1608) and remote client (fd:1596)
+INFO      Dec 09 11:59:17 [2336]: Client (1608) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1596) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1584): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1584): GET http://vidya/vidya_files/jquery-ui-accordion.js HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1572.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1584) and remote client (fd:1572)
+INFO      Dec 09 11:59:17 [2336]: Client (1584) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1572) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1560): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1560): GET http://vidya/vidya_files/jquery-1.js HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1548.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1560) and remote client (fd:1548)
+INFO      Dec 09 11:59:17 [2336]: Client (1560) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1548) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1536): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1536): GET http://vidya/files/curriculum-resource.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1524.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1536) and remote client (fd:1524)
+INFO      Dec 09 11:59:17 [2336]: Client (1536) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1524) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1512): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1512): GET http://vidya/files/applied%20sciences%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1500.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1512) and remote client (fd:1500)
+INFO      Dec 09 11:59:17 [2336]: Client (1512) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1500) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1488): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1488): GET http://vidya/files/journalism%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1476.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1488) and remote client (fd:1476)
+INFO      Dec 09 11:59:17 [2336]: Client (1488) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1476) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1464): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1464): GET http://vidya/files/management%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1452.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1464) and remote client (fd:1452)
+INFO      Dec 09 11:59:17 [2336]: Client (1464) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1452) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1440): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1440): GET http://vidya/files/articles%20left.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1428.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1440) and remote client (fd:1428)
+INFO      Dec 09 11:59:17 [2336]: Client (1440) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1428) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1416): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1416): GET http://vidya/files/open%20course%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1404.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1416) and remote client (fd:1404)
+INFO      Dec 09 11:59:17 [2336]: Client (1416) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1404) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1392): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1392): GET http://vidya/files/get%20a%20lifee%20final%20edit%20left.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1380.
+INFO      Dec 09 11:59:17 [2336]: Closed connection between local client (fd:1392) and remote client (fd:1380)
+INFO      Dec 09 11:59:17 [2336]: Client (1392) close message: Bad file descriptor
+INFO      Dec 09 11:59:17 [2336]: Server (1380) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:17 [2336]: Connect (file descriptor 1368): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:17 [2336]: Request (file descriptor 1368): GET http://vidya/files/clubs.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:17 [2336]: Established connection to host "vidya" using file descriptor 1356.
+INFO      Dec 09 11:59:18 [2336]: Closed connection between local client (fd:1368) and remote client (fd:1356)
+INFO      Dec 09 11:59:18 [2336]: Client (1368) close message: Bad file descriptor
+INFO      Dec 09 11:59:18 [2336]: Server (1356) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:18 [2336]: Connect (file descriptor 1344): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:18 [2336]: Request (file descriptor 1344): GET http://vidya/files/vidya%20jhoti%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:18 [2336]: Established connection to host "vidya" using file descriptor 1332.
+INFO      Dec 09 11:59:19 [2336]: Closed connection between local client (fd:1344) and remote client (fd:1332)
+INFO      Dec 09 11:59:19 [2336]: Client (1344) close message: Bad file descriptor
+INFO      Dec 09 11:59:19 [2336]: Server (1332) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:19 [2336]: Connect (file descriptor 1320): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:19 [2336]: Request (file descriptor 1320): GET http://vidya/files/gateways%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:19 [2336]: Established connection to host "vidya" using file descriptor 1308.
+INFO      Dec 09 11:59:19 [2336]: Closed connection between local client (fd:1320) and remote client (fd:1308)
+INFO      Dec 09 11:59:19 [2336]: Client (1320) close message: Bad file descriptor
+INFO      Dec 09 11:59:19 [2336]: Server (1308) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:19 [2336]: Connect (file descriptor 1296): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:19 [2336]: Request (file descriptor 1296): GET http://vidya/files/downloads%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:19 [2336]: Established connection to host "vidya" using file descriptor 1284.
+INFO      Dec 09 11:59:19 [2336]: Closed connection between local client (fd:1296) and remote client (fd:1284)
+INFO      Dec 09 11:59:19 [2336]: Client (1296) close message: Bad file descriptor
+INFO      Dec 09 11:59:19 [2336]: Server (1284) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:19 [2336]: Connect (file descriptor 1272): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:19 [2336]: Request (file descriptor 1272): GET http://vidya/files/text%20red.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:19 [2336]: Established connection to host "vidya" using file descriptor 1260.
+INFO      Dec 09 11:59:19 [2336]: Closed connection between local client (fd:1272) and remote client (fd:1260)
+INFO      Dec 09 11:59:19 [2336]: Client (1272) close message: Bad file descriptor
+INFO      Dec 09 11:59:19 [2336]: Server (1260) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:19 [2336]: Connect (file descriptor 1248): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:19 [2336]: Request (file descriptor 1248): GET http://vidya/files/humanities%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:19 [2336]: Established connection to host "vidya" using file descriptor 1236.
+INFO      Dec 09 11:59:19 [2336]: Closed connection between local client (fd:1248) and remote client (fd:1236)
+INFO      Dec 09 11:59:19 [2336]: Client (1248) close message: Bad file descriptor
+INFO      Dec 09 11:59:19 [2336]: Server (1236) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:19 [2336]: Connect (file descriptor 1224): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:19 [2336]: Request (file descriptor 1224): GET http://vidya/files/spirituality-philo.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:19 [2336]: Established connection to host "vidya" using file descriptor 1212.
+INFO      Dec 09 11:59:19 [2336]: Closed connection between local client (fd:1224) and remote client (fd:1212)
+INFO      Dec 09 11:59:19 [2336]: Client (1224) close message: Bad file descriptor
+INFO      Dec 09 11:59:19 [2336]: Server (1212) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:19 [2336]: Connect (file descriptor 1200): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:19 [2336]: Request (file descriptor 1200): GET http://vidya/files/archives%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:19 [2336]: Established connection to host "vidya" using file descriptor 1188.
+INFO      Dec 09 11:59:19 [2336]: Closed connection between local client (fd:1200) and remote client (fd:1188)
+INFO      Dec 09 11:59:19 [2336]: Client (1200) close message: Bad file descriptor
+INFO      Dec 09 11:59:19 [2336]: Server (1188) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:19 [2336]: Connect (file descriptor 1176): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:19 [2336]: Request (file descriptor 1176): GET http://vidya/files/HOBBIES2.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:19 [2336]: Established connection to host "vidya" using file descriptor 1164.
+INFO      Dec 09 11:59:19 [2336]: Closed connection between local client (fd:1176) and remote client (fd:1164)
+INFO      Dec 09 11:59:19 [2336]: Client (1176) close message: Bad file descriptor
+INFO      Dec 09 11:59:19 [2336]: Server (1164) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:19 [2336]: Connect (file descriptor 1152): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:19 [2336]: Request (file descriptor 1152): GET http://vidya/files/campus%20sites%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:20 [2336]: Established connection to host "vidya" using file descriptor 1140.
+INFO      Dec 09 11:59:20 [2336]: Closed connection between local client (fd:1152) and remote client (fd:1140)
+INFO      Dec 09 11:59:20 [2336]: Client (1152) close message: Bad file descriptor
+INFO      Dec 09 11:59:20 [2336]: Server (1140) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:20 [2336]: Connect (file descriptor 1128): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:20 [2336]: Request (file descriptor 1128): GET http://vidya/files/teaching%20and%20learning%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:20 [2336]: Established connection to host "vidya" using file descriptor 1116.
+INFO      Dec 09 11:59:20 [2336]: Closed connection between local client (fd:1128) and remote client (fd:1116)
+INFO      Dec 09 11:59:20 [2336]: Client (1128) close message: Bad file descriptor
+INFO      Dec 09 11:59:20 [2336]: Server (1116) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:20 [2336]: Connect (file descriptor 1104): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:20 [2336]: Request (file descriptor 1104): GET http://vidya/files/multimedia%20left.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:20 [2336]: Established connection to host "vidya" using file descriptor 1092.
+INFO      Dec 09 11:59:20 [2336]: Closed connection between local client (fd:1104) and remote client (fd:1092)
+INFO      Dec 09 11:59:20 [2336]: Client (1104) close message: Bad file descriptor
+INFO      Dec 09 11:59:20 [2336]: Server (1092) close message: Bad file descriptor
+CONNECT   Dec 09 11:59:20 [2336]: Connect (file descriptor 1080): localhost [127.0.0.1]
+CONNECT   Dec 09 11:59:20 [2336]: Request (file descriptor 1080): GET http://vidya/files/editors%20pic%20final.jpg HTTP/1.1
+CONNECT   Dec 09 11:59:20 [2336]: Established connection to host "vidya" using file descriptor 1068.
+INFO      Dec 09 11:59:20 [2336]: Closed connection between local client (fd:1080) and remote client (fd:1068)
+INFO      Dec 09 11:59:20 [2336]: Client (1080) close message: Bad file descriptor
+INFO      Dec 09 11:59:20 [2336]: Server (1068) close message: Bad file descriptor

@@ -1,0 +1,37 @@
+File's ok:
+stats.c
+log.c
+http_message.c
+htmlerror.c
+conns.c
+anonymous.c
+hashmap.c
+vector.c
+hashmap.c
+scanner.c
+grammar.c
+utils.c
+buffer.c
+reqs.c
+network.c
+acl.c
+daemon.c
+
+Problems:
+sock.c
+heap.c
+child.c
+filter.c
+tinyproxy.c
+
+Changes:
+#define  socklen_t unsigned int
+
+To to Fix:
+make_shared_memory --heap.c
+socket_blocking --sock.c
+socket_nonblocking --sock.c
+make_daemon --daemon.c
+set_signal_handler --daemon.c
+regcomp --regex.h
+regexec --regex.h
